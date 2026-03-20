@@ -2,13 +2,6 @@
 
 A Java-based system for managing library operations.
 
-## ✨ Features
-
-- Book catalog management
-- Member registration
-- Loan tracking
-- Reservation system
-
 ## 💻 Tech Stack
 
 Java
